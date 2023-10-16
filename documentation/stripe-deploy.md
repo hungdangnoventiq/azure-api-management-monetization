@@ -77,7 +77,7 @@ You can deploy the monetization resource via either Azure portal or PowerShell s
 
 Click the button below to deploy the example to Azure and fill in the required parameters in the Azure portal.
 n
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fazure-api-management-monetization%2Fmain%2Foutput%2Fmain.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fhungdangnoventiq%2Fazure-api-management-monetization%2Fmain%2Foutput%2Fmain.json)
 
 ### PowerShell script
 
