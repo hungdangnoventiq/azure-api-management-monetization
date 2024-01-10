@@ -39,7 +39,7 @@
         "prices": {
             "unit": {
                 "currency": "usd",
-                "unitAmount": 10,
+                "unitAmount": 100,
                 "quota": 1
             }
         }
