@@ -28,5 +28,20 @@
                 "quota": 1800
             }
         }
+    },
+    {
+        "id": "EchoAPI-Demo",
+        "pricingModelType": "Unit",
+        "recurring": {
+            "interval": "month",
+            "intervalCount": 1
+        },
+        "prices": {
+            "unit": {
+                "currency": "usd",
+                "unitAmount": 10,
+                "quota": 1
+            }
+        }
     }
 ]
