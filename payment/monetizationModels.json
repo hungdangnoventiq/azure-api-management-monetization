@@ -24,7 +24,7 @@
         "prices": {
             "unit": {
                 "currency": "usd",
-                "unitAmount": 300000,
+                "unitAmount": 30000,
                 "quota": 1800
             }
         }
