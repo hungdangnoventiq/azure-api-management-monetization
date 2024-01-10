@@ -1,6 +1,6 @@
 [
     {
-        "id": "enterprise",
+        "id": "search-eco",
         "pricingModelType": "Unit",
         "recurring": {
             "interval": "month",
@@ -9,8 +9,23 @@
         "prices": {
             "unit": {
                 "currency": "usd",
-                "unitAmount": 74900,
-                "quota": 15000
+                "unitAmount": 15000,
+                "quota": 600
+            }
+        }
+    },
+    {
+        "id": "search-deluxe",
+        "pricingModelType": "Unit",
+        "recurring": {
+            "interval": "month",
+            "intervalCount": 1
+        },
+        "prices": {
+            "unit": {
+                "currency": "usd",
+                "unitAmount": 300000,
+                "quota": 1800
             }
         }
     }
